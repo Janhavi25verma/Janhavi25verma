@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Janhavi Verma
-- 👀 I’m interested in JAVA & Web D
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me insta-ID @shhh.jaanhavii
+- 👀 I’m interested in App Development
+- 🌱 I’m currently learning  Flutter Framework
+- 📫 How to reach me email- janhavi25verma@gmail.com
 
 <!---
 Janhavi25verma/Janhavi25verma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
