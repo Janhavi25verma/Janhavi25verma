@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janhavi25verma&label=Profile%20views&color=0e75b6&style=flat" alt="janhavi25verma" /> </p>
 
-- 🔭 I’m currently working on [InstaX](https://github.com/Janhavi25verma/instaX)
-
 - 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **Flutter, Dart**
